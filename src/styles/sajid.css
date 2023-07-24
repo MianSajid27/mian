@@ -1,0 +1,200 @@
+
+@media screen and (max-width: 600px) {
+    .sajid{
+ width: 400px;
+  border-Radius: 5px ;
+  margin-left: 0px;
+    }
+  }
+  .sajid{
+    width: 400px;
+     border-Radius: 5px ;
+     
+    
+       }
+       .sajidd{
+        width: 400px;
+         border-Radius: 5px ;
+         margin-Bottom:100px
+        
+           }
+       .spring{
+
+      width: 400px;
+       border-Radius: 5px;
+       margin-Left:40px ;
+       
+
+       }
+       .springg{
+
+        width: 400px;
+         border-Radius: 5px;
+         margin-Left:40px ;
+         margin-Bottom:100px
+  
+         }
+       @media screen and (max-width: 600px) {
+        .spring{
+
+            width: 400px;
+             border-Radius: 5px;
+             margin-Left:0px ;
+      
+             }
+      }
+      .featured{
+
+font-weight: bold;
+font-size: 20px;
+color: black;
+
+      }
+      .image1{
+margin-top: 30px;
+width: 430px;
+border-radius: 5px;
+/* height: 400px; */
+
+      }
+      .image2{
+        margin-top: 30px;
+        width: 650px;
+        border-radius: 5px;
+        /* height: 400px; */
+        background-color:#f9f9f9;
+        border-radius: 5px;
+              }
+              /* .image2:hover{
+
+               transform:scale(1.1);
+               z-index: 1;
+
+              }    */
+      .main{
+
+        justify-content: center;
+      }
+      .mainn{
+
+        justify-content: center;
+        background-color: black;
+      }
+      .main1{
+
+        float: left;
+      }
+      .main2{
+
+        float: right;
+      }
+      .nike{
+        background-color:#f9f9f9;
+        color: black;
+        font-weight: bold;
+        padding-left: 20px;
+      }
+      .brandd{
+        background-color:#f9f9f9;
+font-size: 15px;
+padding-left: 20px;
+padding-bottom: 30px;
+/* padding-top: 10px;
+transition-duration: 0.2s; */
+      }
+      .brand{
+        background-color:#f9f9f9;
+font-size: 15px;
+padding-left: 20px;
+padding-bottom: 20px;
+
+      }
+      .img3{
+margin-top: 110px;
+        background-color:#f9f9f9;
+        border-radius: 5px;
+        width: 625px;
+      }
+      /* .img3:hover{
+
+        transform:scale(1.1);
+        z-index: 1;
+
+       }    */
+      .img4{
+        margin-top: 30px;
+        background-color:#f9f9f9;
+        border-radius: 5px;
+        width: 640px;
+
+      }
+      /* .img4:hover{
+
+        transform:scale(1.1);
+        z-index: 1;
+
+       }    */
+       .chawk{
+padding-top: 130px;
+padding-bottom: 10px;
+     color:black;
+     
+     font-Weight:bold;
+     font-size:25px;
+     margin-left: 80px;
+       }
+       .share{
+        padding-bottom: 5px;
+        font-size:35px;
+        color:black;
+        margin-left: 80px;
+       }
+       .camera{
+
+        z-index: 2;
+        position: absolute;
+       }
+ 
+       .overlay{
+
+        position: absolute;
+        top: 0;
+        left:0;
+        right: 0;
+        bottom: 0;
+        opacity: 0;
+        transition: opacity 0.4s ease-in-out;
+        background: black;
+        cursor: pointer;
+        width: 20%;
+        height: 20%;
+        
+               }
+              .content{
+       
+               position: absolute;
+               top: 50%;
+               left: 50%;
+               transform: translate(-50%, -50%);
+               color:white ;
+               text-align: center;
+               font-family: verdana;
+              }
+              .wraper{
+       
+               width: 20%;
+               height: 400px;
+               position: absolute;
+               top: 50%;
+               left: 50%;
+               transform: translate(-50%,-50%);
+              }
+             .container:hover .overlay{
+       
+               opacity: 0.8;
+             }
+             img{
+   
+               height: 208px;
+             width: 208px;
+             }
